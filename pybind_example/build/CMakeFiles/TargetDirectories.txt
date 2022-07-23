@@ -1,0 +1,5 @@
+/home/aaronbading/projects/pybind11-examples/pybind_example/build/CMakeFiles/rebuild_cache.dir
+/home/aaronbading/projects/pybind11-examples/pybind_example/build/CMakeFiles/edit_cache.dir
+/home/aaronbading/projects/pybind11-examples/pybind_example/build/CMakeFiles/PriceAlgo.dir
+/home/aaronbading/projects/pybind11-examples/pybind_example/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/aaronbading/projects/pybind11-examples/pybind_example/build/pybind11/CMakeFiles/edit_cache.dir
