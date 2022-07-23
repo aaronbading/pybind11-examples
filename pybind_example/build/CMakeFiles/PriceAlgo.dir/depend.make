@@ -4,6 +4,7 @@
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/attr.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/buffer_info.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/cast.h
+CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/complex.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/detail/class.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/detail/common.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/detail/descr.h
@@ -12,9 +13,11 @@ CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/detail/int
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/detail/type_caster_base.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/detail/typeid.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/gil.h
+CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/numpy.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/options.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/pybind11.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/pytypes.h
+CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../pybind11/include/pybind11/stl.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: /usr/include/python3.9/Python.h
 CMakeFiles/PriceAlgo.dir/src/main.cpp.o: /usr/include/python3.9/abstract.h

@@ -9,9 +9,13 @@ $mkdir build
 $cd build
 $cmake ..
 $make
-$cp ../tests/test_basic .
-$python3 test_basic.py
+
 
 ```
+## Build and run test 
 
+```bash
+$cmake .. && make && python3 ../test_basic.py
+
+```
 

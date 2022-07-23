@@ -5,6 +5,7 @@ CMakeFiles/PriceAlgo.dir/src/main.cpp.o
  ../pybind11/include/pybind11/attr.h
  ../pybind11/include/pybind11/buffer_info.h
  ../pybind11/include/pybind11/cast.h
+ ../pybind11/include/pybind11/complex.h
  ../pybind11/include/pybind11/detail/class.h
  ../pybind11/include/pybind11/detail/common.h
  ../pybind11/include/pybind11/detail/descr.h
@@ -13,9 +14,11 @@ CMakeFiles/PriceAlgo.dir/src/main.cpp.o
  ../pybind11/include/pybind11/detail/type_caster_base.h
  ../pybind11/include/pybind11/detail/typeid.h
  ../pybind11/include/pybind11/gil.h
+ ../pybind11/include/pybind11/numpy.h
  ../pybind11/include/pybind11/options.h
  ../pybind11/include/pybind11/pybind11.h
  ../pybind11/include/pybind11/pytypes.h
+ ../pybind11/include/pybind11/stl.h
  /home/aaronbading/projects/pybind11-examples/pybind_example/src/main.cpp
  /usr/include/python3.9/Python.h
  /usr/include/python3.9/abstract.h
