@@ -9,4 +9,9 @@ $mkdir build
 $cd build
 $cmake ..
 $make
+$cp ../tests/test_basic .
+$python3 test_basic.py
+
 ```
+
+
